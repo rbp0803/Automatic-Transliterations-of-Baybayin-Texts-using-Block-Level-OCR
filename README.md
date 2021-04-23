@@ -1,5 +1,6 @@
-# Baybayin-and-Latin-Script-Recognition-System
-A proposed algorithm to recognize Baybayin script from Latin at word level in a block text.
+# xtracting-Baybayin-and-Latin-Words-on-Images-using-Support-Vector-Machine
+
+A proposed algorithm to recognize Baybayin script from Latin at a block level in a text image.
 
 <b> NOTE: The system files (Example images, classifier, etc.) described here can also be downloaded in Release section. Its source filename is `Baybayin.and.Latin.Script.Recognition.System.zip`. The following link provides the complete system file page:
   
