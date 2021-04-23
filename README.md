@@ -1,4 +1,4 @@
-# xtracting-Baybayin-and-Latin-Words-on-Images-using-Support-Vector-Machine
+# Extracting-Baybayin-and-Latin-Words-on-Images-using-Support-Vector-Machine
 
 A proposed algorithm to recognize Baybayin script from Latin at a block level in a text image.
 
