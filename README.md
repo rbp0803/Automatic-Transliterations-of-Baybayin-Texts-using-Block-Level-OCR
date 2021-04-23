@@ -2,7 +2,8 @@
 
 A proposed algorithm to recognize Baybayin script from Latin at a block level in a text image.
 
-<b> NOTE: The system files (Example images, classifier, etc.) described here can also be downloaded in Release section. Its source filename is `Baybayin.and.Latin.Script.Recognition.System.zip`. The following link provides the complete system file page:
+<b> NOTE: The system files (Example images, classifier, etc.) described here can also be downloaded in Release section. Its source filename is `Extracting.Baybayin.and.Latin.Words.on.Images.using.Support.Vector.Machine.zip
+`. The following link provides the complete system file page:
   
 https://github.com/rbp0803/Baybayin-and-Latin-Script-Recognition-System/releases/tag/v1.0
 </b>
@@ -33,7 +34,7 @@ Binary SVM Classifier
 
 ## A Sample Run
 
-`Example_run_Baybayin_and_Latin_Script_Recognition_System.m` contains a script that executes the proposed Baybayin and Latin script recognition system. `Example1.PNG` and `Example2.PNG` are the sample images.
+`Example_run_Baybayin_and_Latin_Script_Recognition_System.m` contains a script that executes the proposed Baybayin and Latin script recognition system. `Example1.PNG`, `Example2.PNG`, `Example3.PNG`, and `Doctrina Christiana Page.PNG` are the sample images.
 
 ## Acknowledgement
 
