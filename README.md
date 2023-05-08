@@ -1,6 +1,6 @@
 # Automatic-Transliterations-of-Baybayin-Texts-using-Block-Level-OCR
 
-A proposed algorithm that recognizes and transliterates Baybayin scripts in a block text image.
+A proposed algorithm that recognizes and transliterates Baybayin scripts in a block text image. You can ehck the full paper here: https://doi.org/10.56899/151.01.23.
 
 <b> NOTE: The full system files (Example images, classifier, etc.) presented here can be downloaded in Release section. Its source filename is `Automatic.Transliterations.of.Baybayin.Texts.using.Block-Level.OCR.zip`. The following link provides the complete system file page:
   
